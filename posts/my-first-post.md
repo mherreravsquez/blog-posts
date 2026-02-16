@@ -1,6 +1,6 @@
 ---
 title: "My first post!"
-date: "2004-08-08"
+date: "2026-02-16"
 language: "en"
 tags: ["life update"]
 excerpt: ""
