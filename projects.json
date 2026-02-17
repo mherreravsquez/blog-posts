@@ -1,0 +1,19 @@
+[
+  {
+    "id": "vibrant-trains",
+    "title": "Vibrant Trains",
+    "type": "Game Jam · Chill Game Jam 2026 by Plants Path Collective",
+    "description": "3D isometric multiplayer roguelike game with trains.",
+    "platform": "PC",
+    "tools": "Unity 6",
+    "link": "https://plants-path-co.itch.io/vibrant-trains",
+    "blogTag": "vibrant-trains",
+    "tags": [
+      "Unity 6",
+      "Game Jam",
+      "Roguelike",
+      "Multiplayer"
+    ],
+    "media": []
+  }
+]
