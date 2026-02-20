@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "vibrant-trains",
+    "title": "Vibrant Trains",
+    "type": "GAME JAM - CHILL GAME JAM BY PPCO",
+    "description": "3D isometric multiplayer roguelike game with trains. Supports both singleplayer and multiplayer (host-client) modes. Built using Unity's Netcode for GameObjects framework. Movement is designed to feel like a train on ice — momentum, wide turns at speed, and drift; WIP for the moment.",
+    "platform": "PC",
+    "tools": "Unity 6, Unity Netcode",
+    "link": "https://plants-path-co.itch.io/vibrant-trains",
+    "blogTag": "vibrant-trains",
+    "tags": [
+      "Unity 6",
+      "Multiplayer",
+      "Roguelike"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://i.imgur.com/FPfAG63.mp4"
+      }
+    ]
+  }
+]
