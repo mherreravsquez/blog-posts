@@ -14,6 +14,11 @@
       "Roguelike",
       "Multiplayer"
     ],
-    "media": []
+    "media": [
+      {
+        "type": "video",
+        "url": "https://i.imgur.com/FPfAG63.mp4"
+      }
+    ]
   }
 ]
