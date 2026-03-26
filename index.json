@@ -1,3 +1,36 @@
 ﻿{
-  "posts": []
+  "posts": [
+    {
+      "slug": "2026-03-25-comienzo-preproduccion-e-investigacion-de-campo",
+      "title": {
+        "en": null,
+        "es": "Comienzo Preproducción, e Investigación de Campo"
+      },
+      "date": "2026-03-25",
+      "type": "update",
+      "lang": "es",
+      "project": "hunters-vega",
+      "tags": ["investigation", "preproduction"],
+      "excerpt": {
+        "en": null,
+        "es": "Comienzo Preproducción, e Investigación de Campo de Hunters: Vega"
+      }
+    },
+    {
+      "slug": "2026-03-25-comienzo-preproduccion-e-investigacion-de-campo",
+      "title": {
+        "en": "Start of Pre-Production and Field Research",
+        "es": null
+      },
+      "date": "2026-03-25",
+      "type": "update",
+      "lang": "en",
+      "project": "hunters-vega",
+      "tags": ["investigation", "preproduction"],
+      "excerpt": {
+        "en": "Start of Pre-Production and Field Research for Hunters: Vega",
+        "es": null
+      }
+    }
+  ]
 }
