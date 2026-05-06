@@ -10,6 +10,7 @@
       "type": "update",
       "lang": "es",
       "project": "hunters-vega",
+      "category": "game",
       "tags": ["investigation", "preproduction"],
       "excerpt": {
         "en": null,
@@ -26,10 +27,26 @@
       "type": "update",
       "lang": "en",
       "project": "hunters-vega",
+      "category": "game",
       "tags": ["investigation", "preproduction"],
       "excerpt": {
         "en": "Start of Pre-Production and Field Research for Hunters: Vega",
         "es": null
+      }
+    },
+    {
+      "slug": "2026-05-05",
+      "title": {
+        "es": "Primer Día"
+      },
+      "date": "2026-05-05",
+      "type": "devlog",
+      "lang": "es",
+      "project": "dana-relics-1-dx",
+      "category": "ulpomedia",
+      "tags": ["devlog"],
+      "excerpt": {
+        "es": "Se inició la integración a la empresa, corrección de bugs y revisión general."
       }
     }
   ]
